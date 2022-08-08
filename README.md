@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Hayat and as a github username,i am @Hayatlodhi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data Science
-- 📫 https://www.linkedin.com/in/muhammad-hayat-43547021a/
+- 📫 https://www.linkedin.com/in/hayat-lodhi
 
 <!---
 Hayatlodhi/Hayatlodhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
