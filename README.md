@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Hayat and as a github username,i am @Hayatlodhi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning about IC designing.
+- 🌱 I’m currently learning IC designing.
 - 📫 https://www.linkedin.com/in/hayat-lodhi
 
 <!---
